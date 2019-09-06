@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uquiequun.monopolies.net/sitemap.xml
